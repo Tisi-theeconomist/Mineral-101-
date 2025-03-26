@@ -1,4 +1,4 @@
 # Mineral-101-
-Analyzing global mineral resources, reserves, production, and trade. This project imports and cleans mineral data to identify top resource-rich countries, largest reserves, and leading producers. It also explores mineral trade flows—where top producers sell and who the biggest buyers are. Uses data cleaning, transformation, and visualization for insights.
+This project focuses on standardizing data from USGS and UN Comtrade for seamless exploratory analysis and visualization. It highlights how mining and metal markets operate, revealing key insights on global mineral resources, reserves, top producers, trade flows, and major buyers. The goal is provide a clearer understanding of the world’s mineral economy through data-driven insights.
 
-Disclaimer :Information (codes and other attachments provided in this repo are for learning purpose only).
+Disclaimer: Information (codes and other attachments provided in this repo are for learning purpose only).
